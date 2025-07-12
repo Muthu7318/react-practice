@@ -16,7 +16,6 @@ function RecipeCard({ recipe, addToCart }) {
     >
       <img
         style={{
-          width: "50%",
           height: "auto",
           objectFit: "cover",
           borderRadius: "8px",
