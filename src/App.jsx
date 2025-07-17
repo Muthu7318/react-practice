@@ -7,10 +7,11 @@ import DateCalculator from "./dateCalc/DateCalculator";
 import DynamicGreeting from "./dynamicGreeting/dynamicGreeting";
 import RecipeFilter from "./recipeFilter/recipeFilter";
 import TabSwitcher from "./tabSwitch/TabSwitch";
+import AccordionForm from "./testProject/AccordionTest";
 import Toggle from "./toggle/Toggle";
 
 function App() {
-  return <DarkMode></DarkMode>;
+  return <AccordionForm></AccordionForm>;
 }
 
 export default App;
